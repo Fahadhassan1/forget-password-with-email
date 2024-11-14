@@ -1,8 +1,6 @@
 # Forgot Password
 Forgot password management using php, sends secret key to associated email
 
-## DEMO
-http://projects.psuresh.com.np/forgot-password-php
 
 ## Installation
 ### Step-1
